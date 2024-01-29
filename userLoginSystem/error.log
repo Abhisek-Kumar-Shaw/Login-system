@@ -1,0 +1,70 @@
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-28 18:18:03"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:02:29"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:03:03"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:13:36"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:20:02"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:22:27"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:27:20"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:32:02"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:34:51"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:34:58"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:35:27"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:40:21"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:40:52"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:45:08"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:52:27"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:53:32"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:58:45"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:58:52"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 12:59:58"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:00:01"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:00:03"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:00:04"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:00:04"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:01:10"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:01:11"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:01:11"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:01:12"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-11-29 13:01:12"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-29 13:05:45"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-29 13:05:45"}
+{"level":"error","message":"/login-user","service":"user-service","test":{"code":"EDNS","command":"CONN","hostname":"smtp.gmail.com","syscall":"queryA"},"timestamp":"2023-11-29 13:09:00"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-29 16:04:41"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-29 16:04:41"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-29 16:05:11"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-29 16:05:11"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-29 19:10:06"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-29 19:10:06"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-29 19:10:36"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-29 19:10:36"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 11:55:00"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 11:55:00"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 11:55:25"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 11:55:25"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 11:58:36"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 11:58:36"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 12:25:18"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 12:25:18"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 12:25:38"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 12:25:38"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 17:37:13"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 17:37:13"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 17:40:10"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 17:40:10"}
+{"level":"error","message":"/userData","service":"user-service","test":"successful pass","timestamp":"2023-11-30 17:40:43"}
+{"level":"error","message":"/userData","service":"user-service","test":{},"timestamp":"2023-11-30 17:40:43"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 13:51:53"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 13:52:01"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 13:52:10"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 14:44:13"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 14:45:06"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 14:45:50"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 14:48:46"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 14:49:53"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 14:52:03"}
+{"level":"error","message":"/login-user","service":"user-service","test":{},"timestamp":"2023-12-05 14:54:01"}
+{"level":"error","message":"/login-user","service":"user-service","test":"data and hash arguments required","timestamp":"2023-12-05 14:55:34"}
+{"level":"error","message":"//forgot-password","service":"user-service","test":{"code":"EENVELOPE","command":"API"},"timestamp":"2023-12-05 15:16:04"}
+{"level":"error","message":"//forgot-password","service":"user-service","test":{"code":"EENVELOPE","command":"API"},"timestamp":"2023-12-05 15:16:11"}
+{"level":"error","message":"//forgot-password","service":"user-service","test":{"code":"EENVELOPE","command":"API"},"timestamp":"2023-12-05 15:16:39"}
+{"level":"error","message":"//forgot-password","service":"user-service","test":{"code":"EENVELOPE","command":"API"},"timestamp":"2023-12-05 15:16:39"}
